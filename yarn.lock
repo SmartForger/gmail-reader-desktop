@@ -3475,11 +3475,6 @@ electron-localshortcut@^3.1.0:
     keyboardevent-from-electron-accelerator "^2.0.0"
     keyboardevents-areequal "^0.2.1"
 
-electron-log@^4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/electron-log/-/electron-log-4.0.6.tgz#7d4244082a6f5ae3838f3fa4cd7271f8dd610bf1"
-  integrity sha512-inoIFKld98aRAp/l5IzLFx8Oc9sp+SKlTCrVgZKWK+qcI92rT574Ybgcah5dU8G3485vc7ClFIEfCf/IERyBJA==
-
 electron-publish@22.3.2:
   version "22.3.2"
   resolved "https://registry.yarnpkg.com/electron-publish/-/electron-publish-22.3.2.tgz#d2e60caf7a9643fe57e501c20acaf32c737b1c50"
@@ -7767,9 +7762,9 @@ qs@^6.7.0:
   integrity sha512-Cxm7/SS/y/Z3MHWSxXb8lIFqgqBowP5JMlTUFyJN88y0SGQhVmZnqFK/PeuMX9LzUyWsqqhNxIyg0jlzq946yA==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
